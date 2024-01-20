@@ -2,10 +2,10 @@ import mysql.connector
 
 # making Connection
 con = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="123456",
-    database="employeemanagement"
+    host="host name",
+    user="user name",
+    password="user password",
+    database="database name"
 )
 
 def create_table(cursor):
