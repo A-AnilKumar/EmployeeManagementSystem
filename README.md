@@ -52,7 +52,7 @@ CREATE TABLE employees (
     Salary INT,
     ....... // as per requirements
 );
-
+```
 
 ## **Unit Tests (To Be Added)**  ![Project Status](https://img.shields.io/badge/Status-Ongoing-brightgreen)
 Unit tests for the application will be added in the future.
