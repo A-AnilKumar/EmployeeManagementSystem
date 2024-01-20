@@ -52,3 +52,16 @@ CREATE TABLE employees (
     Salary INT,
     ....... // as per requirements
 );
+
+
+## **Unit Tests (To Be Added)**  ![Project Status](https://img.shields.io/badge/Status-Ongoing-brightgreen)
+Unit tests for the application will be added in the future.
+
+# To run the tests:
+
+```bash
+python test_main.py
+```
+
+## **Contributing**
+Contributions are welcome! Please create a new branch for your changes and submit a pull request.
